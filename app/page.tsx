@@ -19,7 +19,6 @@ export default function Home() {
             <a href="#features" className="hover:text-white">Features</a>
             <a href="#how" className="hover:text-white">How it works</a>
             <a href="/support" className="hover:text-white">Support</a>
-            <Link href="#cta" className="btn-gradient text-white text-base px-8 py-3 ml-auto">Log in</Link>
           </nav>
         </header>
       </div>
@@ -65,15 +64,6 @@ export default function Home() {
 
       {/* CTA and lower sections wrapper */}
       <section className="bg-[#2A1B45]">
-        {/* CTA */}
-        <section id="cta" className="px-6 pt-10 pb-8 text-center">
-          <h2 className="text-3xl md:text-4xl font-serif">Ready to go out?</h2>
-          <p className="mt-3 text-white/80">Get started with OPIC and never miss a great night.</p>
-          <div className="mt-8 flex justify-center">
-            <Link href="#" className="btn-gradient text-white text-xl px-14 py-4">Download</Link>
-          </div>
-        </section>
-
         {/* Marquee events */}
         <section className="relative overflow-hidden pt-8 pb-16">
           <div className="flex w-[200%] animate-marquee">

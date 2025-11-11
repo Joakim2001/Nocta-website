@@ -1,20 +1,12 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="crescentFill" x1="28" y1="24" x2="104" y2="108" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FF59C7"/>
-      <stop offset="1" stop-color="#6A4CF6"/>
-    </linearGradient>
-    <mask id="crescentMask">
-      <rect width="128" height="128" fill="black"/>
-      <circle cx="64" cy="64" r="44" fill="white"/>
-      <circle cx="94" cy="60" r="48" fill="black"/>
-    </mask>
-    <linearGradient id="bgMatch" x1="0" y1="0" x2="0" y2="128" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#17142B"/>
-      <stop offset="1" stop-color="#2A1B45"/>
-    </linearGradient>
-  </defs>
-  <!-- Pure crescent (no background circle, no outer glow) -->
-  <circle cx="64" cy="64" r="44" fill="url(#crescentFill)" mask="url(#crescentMask)"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(96.373,96.373,-96.042,96.042,42.064,41.825)">
+			<stop offset="0" stop-color="#ff3ecb"/>
+			<stop offset="1" stop-color="#7b1fa2"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path class="s0" d="m142.63 33.51c-22.85-18.05-54.33-20.56-79.75-6.35-25.42 14.2-39.78 42.32-36.39 71.24 3.4 28.93 23.88 52.96 51.9 60.89 28.02 7.93 58.06-1.8 76.11-24.65-16.63 11.47-38.05 13.38-56.45 5.05-18.4-8.34-31.09-25.7-33.45-45.76-2.35-20.06 5.97-39.89 21.94-52.26 15.98-12.36 37.26-15.46 56.09-8.16z"/>
 </svg>
-

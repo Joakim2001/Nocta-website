@@ -1,6 +1,6 @@
-Nocta Website
+OPIC Website
 
-A lively marketing site for Nocta built with Next.js 14 (App Router) and Tailwind CSS. Ready to deploy on Vercel.
+A lively marketing site for OPIC built with Next.js 14 (App Router) and Tailwind CSS. Ready to deploy on Vercel.
 
 Local development
 

@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Terms of Use — Nocta",
-  description: "Comprehensive terms and conditions for using Nocta services and platform.",
+  title: "Terms of Use — OPIC",
+  description: "Comprehensive terms and conditions for using OPIC services and platform.",
 };
 
 export default function TermsPage() {
@@ -37,9 +37,9 @@ export default function TermsPage() {
           <h2 className="text-2xl font-semibold text-white mb-4">1. Acceptance of Use</h2>
           <div className="space-y-4">
             <p>
-              Welcome to Nocta. These Terms of Use ("Terms") constitute a legally binding 
-              agreement between you ("User," "you," or "your") and Nocta regarding your 
-              access to and use of the Nocta website, applications, and services 
+              Welcome to OPIC. These Terms of Use ("Terms") constitute a legally binding 
+              agreement between you ("User," "you," or "your") and OPIC regarding your 
+              access to and use of the OPIC website, applications, and services 
               (collectively, the "Service").
             </p>
             <p>
@@ -68,8 +68,8 @@ export default function TermsPage() {
           <div className="space-y-4">
             <p>For the purposes of these Terms, the following definitions apply:</p>
             <div className="bg-white/5 p-6 rounded-lg space-y-3">
-              <p><strong className="text-white">"Service"</strong> means the Nocta website, mobile applications, 
-              web applications, APIs, and all related services provided by Nocta.</p>
+              <p><strong className="text-white">"Service"</strong> means the OPIC website, mobile applications, 
+              web applications, APIs, and all related services provided by OPIC.</p>
               
               <p><strong className="text-white">"User" or "You"</strong> means any individual or entity that 
               accesses or uses the Service.</p>
@@ -97,7 +97,7 @@ export default function TermsPage() {
           <h2 className="text-2xl font-semibold text-white mb-4">3. The Service</h2>
           <div className="space-y-4">
             <p>
-              Nocta provides a platform designed for the nightlife and events industry, 
+              OPIC provides a platform designed for the nightlife and events industry, 
               offering tools and services that connect users with venues, events, and 
               entertainment experiences.
             </p>
@@ -137,7 +137,7 @@ export default function TermsPage() {
           <h2 className="text-2xl font-semibold text-white mb-4">4. Grant to Use</h2>
           <div className="space-y-4">
             <p>
-              Subject to your compliance with these Terms, Nocta grants you a limited, 
+              Subject to your compliance with these Terms, OPIC grants you a limited, 
               non-exclusive, non-transferable, non-sublicensable, revocable license to access 
               and use the Service for your personal, non-commercial use.
             </p>
@@ -201,7 +201,7 @@ export default function TermsPage() {
             <p>
               When attending events or venues accessed through the Service, you agree to 
               comply with all rules, regulations, and policies of the venue or event organizer. 
-              Nocta is not responsible for enforcing venue rules or for any consequences 
+              OPIC is not responsible for enforcing venue rules or for any consequences 
               arising from your failure to comply with such rules.
             </p>
           </div>
@@ -266,7 +266,7 @@ export default function TermsPage() {
             <p>
               When you purchase tickets, memberships, or other products or services through 
               the Service, you may be purchasing from third-party venues, event organizers, 
-              or service providers ("Sellers"). In such cases, Nocta acts as a platform 
+              or service providers ("Sellers"). In such cases, OPIC acts as a platform 
               facilitator and is not a party to the transaction between you and the Seller.
             </p>
 
@@ -287,7 +287,7 @@ export default function TermsPage() {
             </p>
             <p>
               For refund requests, you must contact the Seller directly or use the refund 
-              request process provided through the Service. Nocta does not guarantee refunds 
+              request process provided through the Service. OPIC does not guarantee refunds 
               for third-party purchases.
             </p>
 
@@ -321,10 +321,10 @@ export default function TermsPage() {
             <h3 className="text-lg font-semibold text-white">8.1 Your Data</h3>
             <p>
               You retain ownership of any User Content you submit to the Service. However, 
-              by submitting User Content, you grant Nocta a worldwide, non-exclusive, 
+              by submitting User Content, you grant OPIC a worldwide, non-exclusive, 
               royalty-free, sublicensable, and transferable license to use, reproduce, 
               distribute, prepare derivative works of, display, and perform the User Content 
-              in connection with the Service and Nocta's business operations.
+              in connection with the Service and OPIC's business operations.
             </p>
 
             <h3 className="text-lg font-semibold text-white mt-6">8.2 Data Sharing</h3>
@@ -363,7 +363,7 @@ export default function TermsPage() {
           <h2 className="text-2xl font-semibold text-white mb-4">9. Support</h2>
           <div className="space-y-4">
             <p>
-              Nocta provides customer support through various channels, including email 
+              OPIC provides customer support through various channels, including email 
               and in-app support features. Support is provided on a reasonable-efforts 
               basis and we do not guarantee specific response times or resolutions.
             </p>
@@ -373,14 +373,14 @@ export default function TermsPage() {
               For support inquiries, please contact us at:
             </p>
             <div className="bg-white/5 p-6 rounded-lg mt-4">
-              <p><strong className="text-white">Email:</strong> <a href="mailto:support@nocta.app" className="text-white hover:underline">support@nocta.app</a></p>
-              <p className="mt-2"><strong className="text-white">Support Page:</strong> <a href="/support" className="text-white hover:underline">nocta.app/support</a></p>
+              <p><strong className="text-white">Email:</strong> <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a></p>
+              <p className="mt-2"><strong className="text-white">Support Page:</strong> <a href="/support" className="text-white hover:underline">Support</a></p>
             </div>
 
             <h3 className="text-lg font-semibold text-white mt-6">9.2 Third-Party Support</h3>
             <p>
               For issues related to specific venues, events, or purchases, you may need 
-              to contact the relevant third-party Seller directly. Nocta is not responsible 
+              to contact the relevant third-party Seller directly. OPIC is not responsible 
               for providing support for third-party products or services.
             </p>
           </div>
@@ -437,19 +437,19 @@ export default function TermsPage() {
         <section id="intellectual-property">
           <h2 className="text-2xl font-semibold text-white mb-4">12. Intellectual Property Rights</h2>
           <div className="space-y-4">
-            <h3 className="text-lg font-semibold text-white">12.1 Nocta's Intellectual Property</h3>
+            <h3 className="text-lg font-semibold text-white">12.1 OPIC's Intellectual Property</h3>
             <p>
               The Service and all materials included therein, including but not limited to 
               text, graphics, logos, icons, images, audio clips, video clips, data compilations, 
-              software, and the compilation thereof (collectively, "Nocta Content"), are the 
-              property of Nocta or its licensors and are protected by copyright, trademark, 
+              software, and the compilation thereof (collectively, "OPIC Content"), are the 
+              property of OPIC or its licensors and are protected by copyright, trademark, 
               patent, trade secret, and other intellectual property laws.
             </p>
 
             <h3 className="text-lg font-semibold text-white mt-6">12.2 Trademarks</h3>
             <p>
-              "Nocta" and all related logos, product and service names, designs, and slogans 
-              are trademarks of Nocta or its affiliates. You may not use such marks without 
+              "OPIC" and all related logos, product and service names, designs, and slogans 
+              are trademarks of OPIC or its affiliates. You may not use such marks without 
               our prior written permission. Other trademarks, service marks, graphics, and 
               logos used in connection with the Service may be the trademarks of their 
               respective owners.
@@ -462,7 +462,7 @@ export default function TermsPage() {
               please contact us at:
             </p>
             <div className="bg-white/5 p-6 rounded-lg mt-4">
-              <p><strong className="text-white">Email:</strong> <a href="mailto:legal@nocta.app" className="text-white hover:underline">legal@nocta.app</a></p>
+              <p><strong className="text-white">Email:</strong> <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a></p>
             </div>
             <p className="mt-4">
               Please include in your notice: (a) identification of the copyrighted work; 
@@ -511,7 +511,7 @@ export default function TermsPage() {
             <h3 className="text-lg font-semibold text-white">14.1 Termination by You</h3>
             <p>
               You may terminate your Account and stop using the Service at any time by 
-              contacting us at <a href="mailto:support@nocta.app" className="text-white hover:underline">support@nocta.app</a> or 
+              contacting us at <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a> or 
               through the Account settings in the Service.
             </p>
 
@@ -601,28 +601,28 @@ export default function TermsPage() {
               OF PERFORMANCE.
             </p>
             <p>
-              NOCTA DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE, 
+              OPIC DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE, 
               THAT DEFECTS WILL BE CORRECTED, OR THAT THE SERVICE OR THE SERVERS THAT MAKE IT 
               AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
             </p>
 
             <h3 className="text-lg font-semibold text-white mt-6">Limitation of Liability</h3>
             <p>
-              TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL NOCTA, ITS AFFILIATES, 
+              TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL OPIC, ITS AFFILIATES, 
               DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, 
               SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF 
               PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATED 
               TO YOUR USE OF THE SERVICE.
             </p>
             <p>
-              IN NO EVENT SHALL NOCTA'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES EXCEED THE AMOUNT 
-              YOU PAID TO NOCTA IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE 
+              IN NO EVENT SHALL OPIC'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES EXCEED THE AMOUNT 
+              YOU PAID TO OPIC IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE 
               LIABILITY, OR ONE HUNDRED DOLLARS ($100), WHICHEVER IS GREATER.
             </p>
 
             <h3 className="text-lg font-semibold text-white mt-6">Indemnification</h3>
             <p>
-              You agree to indemnify, defend, and hold harmless Nocta and its affiliates, 
+              You agree to indemnify, defend, and hold harmless OPIC and its affiliates, 
               officers, directors, employees, agents, and licensors from and against any claims, 
               liabilities, damages, losses, costs, expenses, or fees (including reasonable 
               attorneys' fees) arising out of or relating to:
@@ -643,7 +643,7 @@ export default function TermsPage() {
             <h3 className="text-lg font-semibold text-white">Entire Agreement</h3>
             <p>
               These Terms, together with our Privacy Policy and Cookie Policy, constitute 
-              the entire agreement between you and Nocta regarding the Service and supersede 
+              the entire agreement between you and OPIC regarding the Service and supersede 
               all prior agreements and understandings.
             </p>
 
@@ -675,15 +675,15 @@ export default function TermsPage() {
               If you have any questions about these Terms, please contact us:
             </p>
             <div className="bg-white/5 p-6 rounded-lg mt-4">
-              <p><strong className="text-white">Email:</strong> <a href="mailto:legal@nocta.app" className="text-white hover:underline">legal@nocta.app</a></p>
-              <p className="mt-2"><strong className="text-white">Support:</strong> <a href="mailto:support@nocta.app" className="text-white hover:underline">support@nocta.app</a></p>
+              <p><strong className="text-white">Email:</strong> <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a></p>
+              <p className="mt-2"><strong className="text-white">Support:</strong> <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a></p>
             </div>
           </div>
       </section>
 
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-white/10 text-center text-white/60">
-          <p>© {new Date().getFullYear()} Nocta. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} OPIC. All rights reserved.</p>
           <p className="mt-2">
             <a href="/privacy" className="hover:text-white transition-colors">Privacy Policy</a>
             {' · '}

@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "How we use cookies — Nocta",
-  description: "Cookies policy for Nocta.",
+  title: "How we use cookies — OPIC",
+  description: "Cookies policy for OPIC.",
 };
 
 export default function CookiesPage() {
@@ -11,7 +11,7 @@ export default function CookiesPage() {
       <section className="mt-8 space-y-6">
         <p>
           Cookies are small text files stored on your device. We use cookies
-          and similar technologies to make Nocta work, to remember your
+          and similar technologies to make OPIC work, to remember your
           preferences, and to understand how the site is used.
         </p>
         <h2 className="text-xl font-semibold text-white">Types of cookies we use</h2>
@@ -28,19 +28,19 @@ export default function CookiesPage() {
           </li>
           <li>
             <span className="font-semibold text-white">Analytics:</span>
-            Help us understand how visitors use Nocta so we can improve the
+            Help us understand how visitors use OPIC so we can improve the
             product. Data is aggregated and not used to identify you.
           </li>
         </ul>
         <h2 className="text-xl font-semibold text-white">Managing cookies</h2>
         <p>
           Most browsers allow you to block or delete cookies in settings. If
-          you disable essential cookies, some parts of Nocta may not work
+          you disable essential cookies, some parts of OPIC may not work
           properly.
         </p>
         <h2 className="text-xl font-semibold text-white">Contact</h2>
         <p>
-          Questions about cookies? Contact privacy@nocta.app.
+          Questions about cookies? Contact support@opic-app.com.
         </p>
       </section>
     </main>

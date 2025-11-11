@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --nocta-bg: #17142b;   /* deep indigo */
-  --nocta-bg2: #2a1b45;  /* rich purple */
+  --opic-bg: #17142b;   /* deep indigo */
+  --opic-bg2: #2a1b45;  /* rich purple */
 }
 
 html, body {
@@ -15,7 +15,7 @@ body {
   background:
     radial-gradient(1000px 520px at 15% 0%, rgba(255,89,199,.20), transparent 60%),
     radial-gradient(800px 480px at 85% 10%, rgba(76,90,247,.18), transparent 60%),
-    linear-gradient(180deg, var(--nocta-bg) 0%, var(--nocta-bg2) 100%);
+    linear-gradient(180deg, var(--opic-bg) 0%, var(--opic-bg2) 100%);
   color: white;
 }
 

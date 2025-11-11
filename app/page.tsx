@@ -3,7 +3,7 @@ import Link from "next/link";
 function Logo() {
   return (
     <div className="flex items-center gap-3 select-none">
-      <img src="/nocta-moon.svg" alt="Nocta" width={56} height={56} className="animate-float" style={{filter:'drop-shadow(0 8px 22px rgba(255,89,199,0.35))'}} />
+      <img src="/opic-moon.svg" alt="OPIC" width={56} height={56} className="animate-float" style={{filter:'drop-shadow(0 8px 22px rgba(255,89,199,0.35))'}} />
     </div>
   );
 }
@@ -28,10 +28,10 @@ export default function Home() {
       <section className="mx-auto grid max-w-6xl grid-cols-1 gap-10 px-6 pb-12 pt-10">
         <div className="relative z-10">
           <h1 className="text-5xl md:text-6xl font-serif leading-tight">
-            Welcome to <span className="text-transparent bg-clip-text bg-nocta-gradient">Nocta</span>
+            Welcome to <span className="text-transparent bg-clip-text bg-opic-gradient">OPIC</span>
           </h1>
           <p className="mt-5 text-white/80 leading-relaxed max-w-full text-xl">
-            Nocta automatically gathers all events and offers from the city's clubs and bars in one place, making it easy for locals, tourists, and exchange students to discover what's happening right now.
+            OPIC automatically gathers all events and offers from the city's clubs and bars in one place, making it easy for locals, tourists, and exchange students to discover what's happening right now.
           </p>
         </div>
       </section>
@@ -68,7 +68,7 @@ export default function Home() {
         {/* CTA */}
         <section id="cta" className="px-6 pt-10 pb-8 text-center">
           <h2 className="text-3xl md:text-4xl font-serif">Ready to go out?</h2>
-          <p className="mt-3 text-white/80">Get started with Nocta and never miss a great night.</p>
+          <p className="mt-3 text-white/80">Get started with OPIC and never miss a great night.</p>
           <div className="mt-8 flex justify-center">
             <Link href="#" className="btn-gradient text-white text-xl px-14 py-4">Download</Link>
           </div>
@@ -130,7 +130,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="py-9 text-center text-white/60 bg-black/20 backdrop-blur supports-[backdrop-filter]:bg-black/30 border-t border-white/10">
-          <p>© {new Date().getFullYear()} Nocta. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} OPIC. All rights reserved.</p>
           <div className="mt-3 flex items-center justify-center gap-6 text-sm">
             <Link href="/legal" className="hover:text-white">Legal</Link>
             <span aria-hidden>•</span>

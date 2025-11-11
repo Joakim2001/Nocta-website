@@ -1,8 +1,8 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Legal — Nocta",
-  description: "Legal documents and policies for Nocta services and platform.",
+  title: "Legal — OPIC",
+  description: "Legal documents and policies for OPIC services and platform.",
 };
 
 export default function LegalPage() {
@@ -54,7 +54,7 @@ export default function LegalPage() {
           <Link href="/privacy" className="group block">
             <div className="h-full bg-white/5 hover:bg-white/10 rounded-2xl p-6 border border-white/10 hover:border-white/20 transition-all">
               <div className="text-3xl mb-4">📋</div>
-              <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-nocta-gradient transition-all">
+              <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-opic-gradient transition-all">
                 Privacy Policy
               </h3>
               <p className="text-white/70 text-sm mb-4 leading-relaxed">
@@ -78,11 +78,11 @@ export default function LegalPage() {
           <Link href="/terms" className="group block">
             <div className="h-full bg-white/5 hover:bg-white/10 rounded-2xl p-6 border border-white/10 hover:border-white/20 transition-all">
               <div className="text-3xl mb-4">⚖️</div>
-              <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-nocta-gradient transition-all">
+              <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-opic-gradient transition-all">
                 Terms of Use
               </h3>
               <p className="text-white/70 text-sm mb-4 leading-relaxed">
-                The rules and guidelines for using Nocta services. Covers user obligations, 
+                The rules and guidelines for using OPIC services. Covers user obligations, 
                 acceptable use, and our service guarantees.
               </p>
               <div className="flex items-center justify-between text-sm">
@@ -102,7 +102,7 @@ export default function LegalPage() {
           <Link href="/cookies" className="group block">
             <div className="h-full bg-white/5 hover:bg-white/10 rounded-2xl p-6 border border-white/10 hover:border-white/20 transition-all">
               <div className="text-3xl mb-4">🍪</div>
-              <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-nocta-gradient transition-all">
+              <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-opic-gradient transition-all">
                 Cookie Policy
               </h3>
               <p className="text-white/70 text-sm mb-4 leading-relaxed">
@@ -181,7 +181,7 @@ export default function LegalPage() {
           <div className="bg-white/5 rounded-xl p-6 border border-white/10">
             <h3 className="text-lg font-semibold text-white mb-2">How do I delete my account and data?</h3>
             <p className="text-white/70 text-sm">
-              You can request account deletion by emailing <a href="mailto:privacy@nocta.app" className="text-white hover:underline">privacy@nocta.app</a> from 
+              You can request account deletion by emailing <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a> from 
               your registered email address, or through your account settings. We'll process your request within 30 days. 
               In some cases, we may need to retain certain information for legal compliance (see our Privacy Policy for details).
             </p>
@@ -200,8 +200,8 @@ export default function LegalPage() {
             <h3 className="text-lg font-semibold text-white mb-2">Can I get a refund for tickets or memberships?</h3>
             <p className="text-white/70 text-sm">
               Refund policies vary by venue and event organizer. When you purchase tickets or memberships, you're buying 
-              from the venue/organizer directly (Nocta acts as a platform facilitator). Please contact the venue or check 
-              the refund policy shown at the time of purchase. For assistance, contact <a href="mailto:support@nocta.app" className="text-white hover:underline">support@nocta.app</a>.
+              from the venue/organizer directly (OPIC acts as a platform facilitator). Please contact the venue or check 
+              the refund policy shown at the time of purchase. For assistance, contact <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a>.
             </p>
           </div>
 
@@ -242,21 +242,21 @@ export default function LegalPage() {
             <div className="text-2xl mb-3">📧</div>
             <h3 className="text-lg font-semibold text-white mb-2">Legal Inquiries</h3>
             <p className="text-white/70 text-sm mb-3">For questions about our legal documents or policies</p>
-            <a href="mailto:legal@nocta.app" className="text-white hover:underline">legal@nocta.app</a>
+            <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a>
           </div>
 
           <div className="bg-white/5 rounded-xl p-6 border border-white/10">
             <div className="text-2xl mb-3">🔒</div>
             <h3 className="text-lg font-semibold text-white mb-2">Privacy Matters</h3>
             <p className="text-white/70 text-sm mb-3">Data requests, privacy concerns, or GDPR inquiries</p>
-            <a href="mailto:privacy@nocta.app" className="text-white hover:underline">privacy@nocta.app</a>
+            <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a>
           </div>
 
           <div className="bg-white/5 rounded-xl p-6 border border-white/10">
             <div className="text-2xl mb-3">💬</div>
             <h3 className="text-lg font-semibold text-white mb-2">General Support</h3>
             <p className="text-white/70 text-sm mb-3">Account help, technical issues, or general questions</p>
-            <a href="mailto:support@nocta.app" className="text-white hover:underline">support@nocta.app</a>
+            <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a>
           </div>
         </div>
         <p className="text-center text-white/60 text-sm mt-8">
@@ -269,7 +269,7 @@ export default function LegalPage() {
       <div className="text-center p-8 bg-white/5 rounded-2xl border border-white/10">
         <p className="text-white/70 text-sm leading-relaxed">
           These legal documents are provided for transparency and to help you understand your rights and 
-          obligations when using Nocta. If you have any questions or concerns, please don't hesitate to 
+          obligations when using OPIC. If you have any questions or concerns, please don't hesitate to 
           reach out to us. We're here to help.
         </p>
         <p className="text-white/60 text-xs mt-4">

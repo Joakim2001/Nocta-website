@@ -2,11 +2,11 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Nocta — Your nightlife companion",
+  title: "OPIC — Your nightlife companion",
   description:
-    "Nocta automatically gathers all events and offers from the city's clubs and bars in one place.",
+    "OPIC automatically gathers all events and offers from the city's clubs and bars in one place.",
   openGraph: {
-    title: "Nocta",
+    title: "OPIC",
     description: "Your nightlife companion",
     type: "website",
   },
@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className="antialiased min-h-screen text-white" style={{
-        background: `linear-gradient(180deg, var(--nocta-bg) 0%, var(--nocta-bg2) 100%)`
+        background: `linear-gradient(180deg, var(--opic-bg) 0%, var(--opic-bg2) 100%)`
       }}>
         {children}
       </body>

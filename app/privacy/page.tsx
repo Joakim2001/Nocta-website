@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Privacy Policy — Nocta",
-  description: "Comprehensive privacy policy for Nocta services and platform.",
+  title: "Privacy Policy — OPIC",
+  description: "Comprehensive privacy policy for OPIC services and platform.",
 };
 
 export default function PrivacyPage() {
@@ -37,7 +37,7 @@ export default function PrivacyPage() {
           <h2 className="text-2xl font-semibold text-white mb-4">1. Introduction</h2>
           <div className="space-y-4">
             <p>
-              Welcome to Nocta. We are committed to protecting your privacy and ensuring 
+              Welcome to OPIC. We are committed to protecting your privacy and ensuring 
               the security of your personal information. This Privacy Policy explains how 
               we collect, use, disclose, and safeguard your information when you use our 
               services, website, and applications.
@@ -56,12 +56,12 @@ export default function PrivacyPage() {
           <h2 className="text-2xl font-semibold text-white mb-4">2. Information About Us</h2>
           <div className="space-y-4">
             <p>
-              Nocta is a platform designed to provide innovative solutions for the nightlife 
+              OPIC is a platform designed to provide innovative solutions for the nightlife 
               and events industry. We operate as the data controller for the personal 
               information we collect through our services.
             </p>
             <p>
-              For the purposes of data protection legislation, Nocta is the entity responsible 
+              For the purposes of data protection legislation, OPIC is the entity responsible 
               for processing your personal data as described in this Privacy Policy.
             </p>
           </div>
@@ -132,7 +132,7 @@ export default function PrivacyPage() {
               <li><strong>Service Providers:</strong> With trusted third-party service providers who assist in operating our services (e.g., hosting, analytics, payment processing)</li>
               <li><strong>Business Partners:</strong> With venues, event organizers, or other partners when you use our services to interact with them</li>
               <li><strong>Legal Requirements:</strong> When required by law, court order, or legal process</li>
-              <li><strong>Safety & Rights Protection:</strong> To protect the rights, property, and safety of Nocta, our users, or others</li>
+              <li><strong>Safety & Rights Protection:</strong> To protect the rights, property, and safety of OPIC, our users, or others</li>
               <li><strong>Business Transfers:</strong> In connection with a merger, acquisition, or sale of assets</li>
               <li><strong>With Your Consent:</strong> When you explicitly authorize us to share your information</li>
             </ul>
@@ -230,7 +230,7 @@ export default function PrivacyPage() {
             </p>
             <ul className="list-disc list-inside space-y-2 ml-4">
               <li>Logging into your account and accessing your profile settings</li>
-              <li>Contacting us directly at <a href="mailto:privacy@nocta.app" className="text-white hover:underline">privacy@nocta.app</a></li>
+              <li>Contacting us directly at <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a></li>
             </ul>
             <p className="mt-4">
               We will respond to your request within a reasonable timeframe and in accordance 
@@ -259,7 +259,7 @@ export default function PrivacyPage() {
               <li><strong>Right to Lodge a Complaint:</strong> File a complaint with a data protection authority</li>
             </ul>
             <p className="mt-4">
-              To exercise any of these rights, please contact us at <a href="mailto:privacy@nocta.app" className="text-white hover:underline">privacy@nocta.app</a>. 
+              To exercise any of these rights, please contact us at <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a>. 
               We will respond to your request in accordance with applicable data protection laws.
             </p>
             <p>
@@ -345,8 +345,8 @@ export default function PrivacyPage() {
               or our data practices, please contact us:
             </p>
             <div className="bg-white/5 p-6 rounded-lg mt-4">
-              <p><strong className="text-white">Email:</strong> <a href="mailto:privacy@nocta.app" className="text-white hover:underline">privacy@nocta.app</a></p>
-              <p className="mt-2"><strong className="text-white">Support:</strong> <a href="mailto:support@nocta.app" className="text-white hover:underline">support@nocta.app</a></p>
+              <p><strong className="text-white">Email:</strong> <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a></p>
+              <p className="mt-2"><strong className="text-white">Support:</strong> <a href="mailto:support@opic-app.com" className="text-white hover:underline">support@opic-app.com</a></p>
             </div>
             <p className="mt-4">
               We will respond to your inquiry as soon as possible, typically within 30 days. 
@@ -380,7 +380,7 @@ export default function PrivacyPage() {
 
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-white/10 text-center text-white/60">
-          <p>© {new Date().getFullYear()} Nocta. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} OPIC. All rights reserved.</p>
           <p className="mt-2">
             <a href="/terms" className="hover:text-white transition-colors">Terms of Use</a>
             {' · '}

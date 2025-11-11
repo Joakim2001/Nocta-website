@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        nocta: {
+        opic: {
           bg: "#17142B",      // deep indigo top
           bg2: "#2A1B45",     // rich purple bottom
           pink: "#FF59C7",    // button gradient start
@@ -43,7 +43,7 @@ const config: Config = {
         marquee: "marquee 30s linear infinite",
       },
       backgroundImage: {
-        "nocta-gradient":
+        "opic-gradient":
           "linear-gradient(135deg, #FF59C7 0%, #7B5DF4 50%, #4C5AF7 100%)",
       },
     },
